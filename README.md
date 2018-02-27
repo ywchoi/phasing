@@ -7,3 +7,8 @@ Gold standard phased VCF files for NA12878 SNVs These files were generated from 
 ## Examples
 ## In-house variant calls
 ## Haplotype diversity
+## Links
+### Haplotype reference panels
+- [SHAPEIT 1000GP reference panel](https://mathgen.stats.ox.ac.uk/impute/1000GP_Phase3.html)
+- [Beagle 1000GP reference panel](http://bochet.gcc.biostat.washington.edu/beagle/1000_Genomes_phase3_v5a/)
+- [Haplotype Reference Consortium Release 1.1](https://ega-archive.org/datasets/EGAD00001002729)
