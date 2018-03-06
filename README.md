@@ -42,3 +42,12 @@ The haplotype diversity for each 1kb non-overlapping region was computed from th
 - [SHAPEIT 1000GP reference panel](https://mathgen.stats.ox.ac.uk/impute/1000GP_Phase3.html)
 - [Beagle 1000GP reference panel](http://bochet.gcc.biostat.washington.edu/beagle/1000_Genomes_phase3_v5a/)
 - [Haplotype Reference Consortium Release 1.1](https://ega-archive.org/datasets/EGAD00001002729)
+### Phasing methods and haplotype data for NA12878
+- [10X Genomics](https://www.ncbi.nlm.nih.gov/pubmed/26829319), data: ftp://ftp-trace.ncbi.nih.gov/giab/ftp/data/NA12878/analysis/10XGenomics_calls_08142015/
+- [Contiguity Preserving Transposon](https://www.ncbi.nlm.nih.gov/pubmed/25326703)
+- [Fosmid-pool-based Phasing Strategy](https://www.ncbi.nlm.nih.gov/pubmed/22102577), [data](http://owww.molgen.mpg.de/~genetic-variation/SIH/data/)
+- [Moleculo](https://www.ncbi.nlm.nih.gov/pubmed/24561555)
+- [Beagle](https://faculty.washington.edu/browning/beagle/beagle.html)
+- [Eagle2](https://data.broadinstitute.org/alkesgroup/Eagle/)
+- [SHAPEIT](https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html)
+- [HapCUT](https://github.com/vibansal/hapcut)
